@@ -69,11 +69,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - hello@gavmor.com
+Gavin Morgan - hello@gavmor.com
 
-Project Link: [https://github.com/yourusername/LLMMessageProcessor](https://github.com/yourusername/LLMMessageProcessor)
+Project Link: [https://github.com/gavmor/LLMMessageProcessor](https://github.com/gavmor/LLMMessageProcessor)
 
 ## Acknowledgments
 
-- List any resources, libraries, or individuals you'd like to acknowledge here.
-```
+- Don't want to shame anybody, yet.
