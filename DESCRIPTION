@@ -1,0 +1,15 @@
+Package: LLMMessageProcessor
+Title: Process CSV Messages with LLM for Response or Embedding
+Version: 0.1.0
+Authors@R: 
+    person("Gavin", "Morgan", email = "hello@gavmor.com", role = c("aut", "cre"))
+Description: This tool ingests a CSV file containing messages, processes each row 
+    using a Large Language Model (LLM) to generate responses or create embeddings. 
+    It provides functionality for data ingestion, LLM interaction, and output handling.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+Config/testthat/edition: 3
+VignetteBuilder: knitr
