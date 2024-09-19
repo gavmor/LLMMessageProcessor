@@ -1,9 +1,6 @@
-Certainly! Here's a template for your README.md file for the LLMMessageProcessor project:
-
-```markdown
 # LLMMessageProcessor
 
-## Description
+## ⚠ THIS IS AN ASPIRATIONAL README, AND DOES NOT REFLECT EXTANT FUNCTIONALITY ⚠
 
 LLMMessageProcessor is an R tool designed for ingesting CSV files containing messages and processing each row using a Large Language Model (LLM) to generate responses or create embeddings. This tool provides functionality for data ingestion, LLM interaction, and output handling.
 
