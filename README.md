@@ -10,7 +10,7 @@ You can install the development version of LLMMessageProcessor from GitHub with:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("yourusername/LLMMessageProcessor")
+devtools::install_github("gavmor/LLMMessageProcessor")
 ```
 
 ## Usage
